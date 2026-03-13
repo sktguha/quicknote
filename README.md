@@ -1,7 +1,7 @@
 # quicknote
 Simple application to take quick notes from notifications, without losing focus of current running app
 
-you can download the zip file to get the Android studio project, for quick install simply download the apk file in files and install it.
+you can download the zip file to get the Android studio project, for quick install simply download the apk file in files and install it , https://github.com/sktguha/quicknote/blob/main/app-debug%20(17).apk
 
 # Install Notes
 
